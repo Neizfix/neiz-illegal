@@ -1,0 +1,3 @@
+- Non Wh Sunucular İçin Çok Basit Bir İllegal Sistem
+ - Silah Üretimi
+ - Ot Yapma
